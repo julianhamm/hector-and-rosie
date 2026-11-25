@@ -1,2 +1,2 @@
-# hector-and-rosie
-A network for public school parents
+# Hector and Rosie
+A network for public school parents.
